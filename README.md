@@ -4,7 +4,7 @@
 
 
 - [Requirements](#requirements)
-- [TP1](#TP1)
+- [TP1](#tp1)
 - [TP2](#TP2)
 - [TP3](#TP3)
 
@@ -14,7 +14,7 @@
 * [ANACONDA For windows][ANACONDA] 
 * [Jupyter][Jup]
 
-##TP1
+## TP1
 <h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
 <p> En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
     

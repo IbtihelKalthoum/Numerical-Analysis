@@ -1,10 +1,26 @@
 # Numerical-Analysis
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Requirements](#requirements)
+- [TP1](#TP1)
+- [TP2](#TP2)
+- [TP3](#TP3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Requirements
+
+* [ANACONDA For windows][ANACONDA] 
+* [Jupyter][Jup]
+
+##TP1
 <h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
-<p> en analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
+<p> En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
     
    point fixe:X=g(x). 
     
- ici ona besoin des méthodes itératives qui nécessitent la construction d'une suite réelle(Xn) convergente vers  α : racine de 
+ Ici on a besoin des méthodes itératives qui nécessitent la construction d'une suite réelle(Xn) convergente vers  α : racine de 
  
  f c'est à dire f(x)=0.
  

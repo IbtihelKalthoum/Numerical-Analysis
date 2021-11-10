@@ -17,7 +17,7 @@
 ## TP1
 <h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
 <p> 
-    >En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
+    En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type 
     
     point fixe:X=g(x). 
     
@@ -35,11 +35,11 @@
   
   lequel existe un zéro de la fonction.
    
-   $$ \circ \hspace{0.5cm} Si \hspace{0.5cm} f(a+b2)≤0 \Longrightarrow	α\in [(a+b)/2,b]$$
+  $$ \circ \hspace{0.5cm} Si \hspace{0.5cm} f(a+b2)≤0 \Longrightarrow	α\in [(a+b)/2,b]$$
 
-$$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
+  $$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
 
-### >+ La méthode de point fixe :
+  >+ La méthode de point fixe :
 
 Le principe de cette méthode consiste à transformer l’équation $f(x) = 0$ en une équation équivalente $g(x) = x$ .
 
@@ -51,14 +51,14 @@ En effet, elle doit être contractante dans un voisinage I de α, ce qui revient
 
 $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n \in \mathbb{N}$ définie par :
 
-   $$\left \{
+  $$\left \{
    \begin{array}{r c l}
       x_0 \hspace{0.2cm}dans\hspace{0.2cm} un\hspace{0.2cm} voisinage \hspace{0.2cm}I\hspace{0.2cm}de\hspace{0.2cm}α \\
       ∀ n ≥ 0,\hspace{0.3cm} x_{n+1} = g(x_n) 
    \end{array}
    \right. $$
    
-  ### >+ La méthode de newton :
+    >+ La méthode de newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 
@@ -82,7 +82,7 @@ Dans ce tp on a étudier et comparer les différentes méthodes de résolution d
   
   les outils utilisées : 
   
-  <strong> anaconda </strong>:
+ ### Anaconda :
   
   Anaconda est une distribution libre et open source des langages de programmation Python et R appliqué au développement 
   
@@ -94,6 +94,6 @@ Dans ce tp on a étudier et comparer les différentes méthodes de résolution d
   
   gestion de paquets conda. 
   
-  <strong> Le langage utilisé : </strong>
+  ### Le langage utilisé : 
  
- python 
+ Python 

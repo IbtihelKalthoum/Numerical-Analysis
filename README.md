@@ -27,7 +27,7 @@
  
   les méthodes itératives utilisées sont  la dichotomie , méthode de pont fixe et méthode de newton.  </p>
   
-   >+ La méthode dichotomie: 
+   * La méthode dichotomie: 
   
   La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une 
   
@@ -39,7 +39,7 @@
 
   $$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
 
-  >+ La méthode de point fixe :
+  * La méthode de point fixe :
 
 Le principe de cette méthode consiste à transformer l’équation $f(x) = 0$ en une équation équivalente $g(x) = x$ .
 
@@ -58,7 +58,7 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    \end{array}
    \right. $$
    
-    >+ La méthode de newton :
+    * La méthode de newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 
@@ -97,3 +97,6 @@ Dans ce tp on a étudier et comparer les différentes méthodes de résolution d
   ### Le langage utilisé : 
  
  Python 
+ 
+[ANACONDA]: https://www.anaconda.com/products/individual
+[Jup]: https://jupyter.org/

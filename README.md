@@ -27,7 +27,7 @@
  
   les méthodes itératives utilisées sont  la dichotomie , méthode de pont fixe et méthode de newton.  </p>
   
-   ### >+ La méthode dichotomie: 
+   >+ La méthode dichotomie: 
   
   La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une 
   

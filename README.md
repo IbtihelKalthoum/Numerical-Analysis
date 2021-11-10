@@ -16,9 +16,10 @@
 
 ## TP1
 <h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
-<p> En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
+<p> 
+    >En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type
     
-   point fixe:X=g(x). 
+    point fixe:X=g(x). 
     
  Ici on a besoin des méthodes itératives qui nécessitent la construction d'une suite réelle(Xn) convergente vers  α : racine de 
  
@@ -26,7 +27,7 @@
  
   les méthodes itératives utilisées sont  la dichotomie , méthode de pont fixe et méthode de newton.  </p>
   
-  <strong> la méthode dichotomie: </strong>
+   ### >+ La méthode dichotomie: 
   
   La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une 
   
@@ -38,7 +39,7 @@
 
 $$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
 
-<strong> la méthode de point fixe :</strong>
+### >+ La méthode de point fixe :
 
 Le principe de cette méthode consiste à transformer l’équation $f(x) = 0$ en une équation équivalente $g(x) = x$ .
 
@@ -57,7 +58,7 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    \end{array}
    \right. $$
    
-   <strong> La méthode de newton :</strong>
+  ### >+ La méthode de newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 

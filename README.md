@@ -17,9 +17,7 @@
 ## TP1
 <h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
 <p> 
-    En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type 
-    
-    point fixe:X=g(x). 
+    En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type point fixe:X=g(x). 
     
  Ici on a besoin des méthodes itératives qui nécessitent la construction d'une suite réelle(Xn) convergente vers  α : racine de 
  
@@ -58,7 +56,8 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    \end{array}
    \right. $$
    
-    * La méthode de newton :
+   
+   * La méthode de newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 

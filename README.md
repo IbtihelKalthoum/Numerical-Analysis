@@ -62,15 +62,15 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 
-On part d'un point $x_0$ de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en
+On part d'un point x0 de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en
 
-$(x_0,f(x_0))$. Soit $x_1$ l'abscisse de l'intersection de la tangente avec l'axe des abscisses. 
+(x0,f(x0)). Soit x1 l'abscisse de l'intersection de la tangente avec l'axe des abscisses. 
 
-Puisque la tangente est proche de la courbe, on peut espérer que $x_1$ donne une meilleure estimation d'une solution de 
+Puisque la tangente est proche de la courbe, on peut espérer que x1 donne une meilleure estimation d'une solution de 
 
-l'équation f(x)=0 que $x_0$.
+l'équation f(x)=0 que x0.
 
-On recommence alors le procédé à partir de $x_1$, et on construit par récurrence une suite $(x_n)$ définie par :
+On recommence alors le procédé à partir de x1 , et on construit par récurrence une suite xn définie par :
 
 $$x_{n+1}=x_n-(f(x_n)/f'(x_n))$$
 

@@ -4,9 +4,9 @@
 
 
 - [Requirements](#requirements)
-- [TP1](#tp1)
-- [TP2](#TP2)
-- [TP3](#TP3)
+- [TP1][TP1]
+- [TP2][TP2]
+- [TP3][TP3]
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Requirements
@@ -16,9 +16,9 @@
 
 
   
-  les outils utilisées : 
+  ### Les outils utilisées : 
   
- ### Anaconda :
+    ## Anaconda :
   
   Anaconda est une distribution libre et open source des langages de programmation Python et R appliqué au développement 
   
@@ -32,7 +32,10 @@
   
   ### Le langage utilisé : 
  
- Python 
+    ## Python 
  
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
+[TP1]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP1
+[TP2]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP2
+[TP3]:

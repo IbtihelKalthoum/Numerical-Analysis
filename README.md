@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IbtihelKalthoum/Numerical-Analysis/main)
+
 # Numerical-Analysis
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -40,4 +43,3 @@
 [TP2]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP2
 [TP3]:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IbtihelKalthoum/Numerical-Analysis/main)

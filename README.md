@@ -39,4 +39,4 @@
 [TP1]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP1
 [TP2]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP2
 [TP3]:
-https://mybinder.org/v2/gh/IbtihelKalthoum/Numerical-Analysis/main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IbtihelKalthoum/Numerical-Analysis/main)

@@ -17,7 +17,7 @@
   
   lequel existe un zéro de la fonction.
    
-  <img src="https://render.githubusercontent.com/render/math?math \circ \hspace{0.5cm} Si \hspace{0.5cm} f(a+b2)≤0 \Longrightarrow	α\in [(a+b)/2,b] >
+  Si <img src="https://render.githubusercontent.com/render/math?math=f(a+b2)≤0 \Longrightarrow	α\in [(a+b)/2,b] >
 
   $$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
 

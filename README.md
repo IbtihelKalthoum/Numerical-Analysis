@@ -41,5 +41,5 @@
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP1
 [TP2]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP2
-[TP3]:
+[TP3]: https://github.com/IbtihelKalthoum/Numerical-Analysis/tree/main/TP3
 

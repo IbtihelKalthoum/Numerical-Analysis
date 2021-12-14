@@ -15,7 +15,7 @@
 - Interpréter les résultats obtenues.
 ### Introduction
 
-> En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de 
+ En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de 
   
  données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
     
@@ -31,7 +31,7 @@
 ## Principe_de_l_interpolation_de_Lagrange:
 
 Le polynôme d’interpolation de Lagrange P(x) est le polynôme unique d’ordre n, qui passe exactement par ces (n+1) points,il permettent d'interpoler une série de points par un polynome:
-> Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
+ Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle P_n(x)=\sum_{k=0}^{n%2B1} y_kL_k(x)">
 
 avec

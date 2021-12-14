@@ -12,10 +12,7 @@ On appelle formule de quadrature une expression linéaire dont l’évaluation f
 son éfficacité est indiqué par  son ordre .
 >  ces formules ou méthodes sont repartit comme suit:
 * Méthode de simpson
-> En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d'une intégrale, c'est-à-dire le calcul approché de :
-
-{\displaystyle \int _{a}^{b}f(x)dx}{\displaystyle \int _{a}^{b}f(x)dx}
-Cette méthode utilise l'approximation d'ordre 2 de f par un polynôme quadratique P prenant les mêmes valeurs que f aux points d'abscisse a, b et m = (a + b)⁄2. Pour déterminer l'expression de cette parabole (polynôme de degré 2), on utilise l'interpolation lagrangienne.
+> En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d'une intégrale , cette méthode utilise l'approximation d'ordre 2 de f par un polynôme quadratique P prenant les mêmes valeurs que f aux points d'abscisse a, b et m = (a + b)⁄2. Pour déterminer l'expression de cette parabole (polynôme de degré 2), on utilise l'interpolation lagrangienne.
 * Méthode de trapéze
 * Méthode de point milieu
 * Méthode de rectangle

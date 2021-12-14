@@ -7,27 +7,24 @@
 > - [Principe de polynome de Newton](#prnc3)
 ### But de TP
 
-.étudier les polynomes d'interpolation.
+- Etudier les polynomes d'interpolation.
 
-. étudier leur  principe de fonctionnements.
+- Etudier leur  principe de fonctionnements.
 
-. interpréter les résultats obtenues.
+- Interpréter les résultats obtenues.
 ### Introduction
 
 > En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de 
+  
+> données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
     
-données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
+> qui passe par tous ces points, et éventuellement vérifie d'autres .
     
-qui passe par tous ces points, et éventuellement vérifie d'autres .
-    
-conditions, de degré si possible le plus bas.
+> conditions, de degré si possible le plus bas.
 
 Le résultat n'est toutefois pas toujours à la hauteur des espérances : dans le cas de l'interpolation lagrangienne, par
 
 
-exemple, le choix des points d'interpolation est critique. L'interpolation en des points régulièrement espacés peut fort bien 
-
-diverger même pour des fonctions très régulières (phénomène de Runge). 
 ### Principe de l'interpolation polynomiale:
 
 
@@ -64,3 +61,11 @@ Dans le domaine mathématique de l'analyse numérique, le phénomène de Runge s
 l'interpolation newtonienne, est une méthode d'interpolation polynomiale permettant d'obtenir le polynôme de Lagrange comme combinaison linéaire de polynômes de la « base newtonienne ».
 
 l'interpolation polynomiale dans une base de Newton est une combinaison linéaire de polynômes appartenant à cette base.
+### Conclusion
+> * L’interpolation designe la construction d’une courbe `a partir de donnée d’un nombre fini de
+points, ou d’une fonction `a partir de  donnée d’un nombre fini de valeurs.
+* La solution du probléme d’interpolation passe nécessairement et au minimum par les points prescrits et peut necessiter de
+respecter des contraintes supplémentaires.
+L’interpolation doit ˆetre distinguée de l’approximation, qui consiste alors `a trouver la fonction
+la plus proche possible d’une série de donnees. Dans le cas de l’approximation, il n’est en général
+plus imposé de passer exactement par les points initiaux. Cependant, une confusion est souvent possible et l’on parle ´egalement d’approximation de la fonction pour désigner les valeurs (estimées) issues d’une interpolation.

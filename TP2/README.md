@@ -1,10 +1,10 @@
 #  Interpolation Numérique
-- [But de TP](#But de TP)
+- [But_de_TP](#But_de_TP)
 - [Introduction](#Introduction)
-- [Principe de l'interpolation polynomiale](#Principe de l'interpolation polynomiale)
-> - [Principe de l'interpolation de Lagrange](#Principe de l'interpolation de Lagrange)
-> - [Principe de phénomène de Runge](#Principe de phénomène de Runge)
-> - [Principe de polynome de Newton](#Principe de polynome de Newton)
+- [Principe_de_l_interpolation_polynomiale](#Principe_de_l_interpolation_polynomiale)
+> - [Principe_de_l_interpolatio_de_Lagrange](#Principe_de_l_interpolation_de_Lagrange)
+> - [Principe_de_phénomène_de_Runge](#Principe_de_phénomène_de_Runge)
+> - [Principe_de_polynome_de_Newton](#Principe_de_polynome_de_Newton)
 - [Conclusion](#conclusion)
 ### But de TP
 
@@ -24,11 +24,11 @@
 
 
 
-### Principe de l'interpolation polynomiale:
+### Principe_de_l_interpolation_polynomiale:
 
 
 
-*  Principe de l'interpolation de Lagrange:
+*  Principe_de_l_interpolation_de_Lagrange:
 
 Le polynôme d’interpolation de Lagrange P(x) est le polynôme unique d’ordre n, qui passe exactement par ces (n+1) points,il permettent d'interpoler une série de points par un polynome:
 > Soient <img src="https://render.githubusercontent.com/render/math?math=(x_0,y_0), \ldots,(x_k,y_k),\ldots ,(x_n,k_n)">  , le polynôme d'interpolation de Lagrange associés à ces points supports est défini par :
@@ -51,11 +51,11 @@ et
 
 
 
-*  Principe de phénomène de Runge:
+*  Principe_de_phénomène_de_Runge:
 
 Dans le domaine mathématique de l'analyse numérique, le phénomène de Runge se manifeste dans le contexte de l'interpolation polynomiale, en particulier l'interpolation de Lagrange. Avec certaines fonctions (même analytiques), l'augmentation du nombre n de points d'interpolation ne constitue pas nécessairement une bonne stratégie d'approximation.
 
-*  Principe de polynome de Newton:
+*  Principe_de_polynome_de_Newton :
 
 l'interpolation newtonienne, est une méthode d'interpolation polynomiale permettant d'obtenir le polynôme de Lagrange comme combinaison linéaire de polynômes de la « base newtonienne ».
 

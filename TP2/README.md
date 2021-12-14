@@ -1,9 +1,34 @@
 #  Interpolation Numérique
+- [But de TP](#but)
+- [Introduction](#intro)
+- [Principe de l'interpolation polynomiale](#principe)
+
+### But de TP
+
+.étudier les polynomes d'interpolation.
+
+. étudier leur  principe de fonctionnements.
+
+. interpréter les résultats obtenues.
+### Introduction
+
+> En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de 
+    
+données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
+    
+qui passe par tous ces points, et éventuellement vérifie d'autres .
+    
+conditions, de degré si possible le plus bas.
+
+Le résultat n'est toutefois pas toujours à la hauteur des espérances : dans le cas de l'interpolation lagrangienne, par
 
 
+exemple, le choix des points d'interpolation est critique. L'interpolation en des points régulièrement espacés peut fort bien 
+
+diverger même pour des fonctions très régulières (phénomène de Runge). 
 ### Principe de l'interpolation polynomiale:
 
-En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points (obtenu, par exemple, à la suite d'une expérience), on cherche un polynôme qui passe par tous ces points, et éventuellement vérifie d'autres conditions, de degré si possible le plus bas.
+
 
 *  Principe de l'interpolation de Lagrange:
 

@@ -1,5 +1,13 @@
-## TP1
-<h1 style="color:#800080;text-decoration:underline "> Introduction :</h1>
+# TP1 Analyse Numérique
+- [But](#But)
+- [Introduction](#Introduction)
+- [La_méthode_dichotomie](#La_méthode_dichotomie)
+- [La_méthode_de_point_fixe](#La_méthode_de_point_fixe)
+- [La méthode_de_newton](#La méthode_de_newton)
+## But 
+
+Dans ce tp on a étudier et comparer les différentes méthodes de résolution d'équation f(x)=0 .
+## Introduction
 <p> 
     En analyse on a besoin beaucoup de fois à résoudre l'équation f(x)=0, qui peut se rammèner à résoudre une équation de type point fixe:X=g(x). 
     
@@ -9,7 +17,7 @@
  
   les méthodes itératives utilisées sont  la dichotomie , méthode de pont fixe et méthode de newton.  </p>
   
-   * La méthode dichotomie: 
+   ### La_méthode_dichotomie: 
   
   La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une 
   
@@ -20,7 +28,7 @@
 
   $$ \circ \hspace{0.5cm} Sinon \hspace{0.5cm} f(a+b2)>0 \Longrightarrow	α\in [a,(a+b)/2]$$
 
-  * La méthode de point fixe :
+  ### La_méthode_de_point_fixe :
 
 Le principe de cette méthode consiste à transformer l’équation $f(x) = 0$ en une équation équivalente $g(x) = x$ .
 
@@ -40,7 +48,7 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    \right. $$
    
    
-   * La méthode de newton :
+   ### La méthode_de_newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 
@@ -58,6 +66,4 @@ $$x_{n+1}=x_n-(f(x_n)/f'(x_n))$$
 
 Soit $g(x)=x-(\frac{f(x)}{f'(x)}) \Longrightarrow x_{n+1}= g(x_n)$
   
-<h1 style="color:#800080;text-decoration:underline "> But de TP:</h1>
 
-Dans ce tp on a étudier et comparer les différentes méthodes de résolution d'équation f(x)=0 .

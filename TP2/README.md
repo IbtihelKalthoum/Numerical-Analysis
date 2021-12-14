@@ -61,9 +61,9 @@ l'interpolation newtonienne, est une méthode d'interpolation polynomiale permet
 
 l'interpolation polynomiale dans une base de Newton est une combinaison linéaire de polynômes appartenant à cette base.
 ### Conclusion
-> * L’interpolation designe la construction d’une courbe `a partir de donnée d’un nombre fini de
+ L’interpolation designe la construction d’une courbe `a partir de donnée d’un nombre fini de
 points, ou d’une fonction `a partir de  donnée d’un nombre fini de valeurs.
-* La solution du probléme d’interpolation passe nécessairement et au minimum par les points prescrits et peut necessiter de
+ La solution du probléme d’interpolation passe nécessairement et au minimum par les points prescrits et peut necessiter de
 respecter des contraintes supplémentaires.
 L’interpolation doit ˆetre distinguée de l’approximation, qui consiste alors `a trouver la fonction
 la plus proche possible d’une série de donnees. Dans le cas de l’approximation, il n’est en général

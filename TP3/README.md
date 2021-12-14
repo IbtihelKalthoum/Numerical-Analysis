@@ -10,7 +10,8 @@
 
 On appelle formule de quadrature une expression linéaire dont l’évaluation fournit une valeur approchée de l’intégrale sur un morceau typique(intervalle bien déterminé)
 son éfficacité est indiqué par  son ordre .
-Ces formules ou méthodes sont repartit comme suit:
+
+### Ces formules ou méthodes sont repartit comme suit:
 * Méthode de simpson
 * Méthode de trapéze
 * Méthode de point milieu

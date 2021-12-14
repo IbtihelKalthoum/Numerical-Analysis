@@ -5,6 +5,7 @@
 > - [Principe de l'interpolation de Lagrange](#prnc1)
 > - [Principe de phénomène de Runge](#prnc2)
 > - [Principe de polynome de Newton](#prnc3)
+- [Conclusion](#conclusion)
 ### But de TP
 
 - Etudier les polynomes d'interpolation.
@@ -16,13 +17,11 @@
 
 > En mathématiques, en analyse numérique, l'interpolation polynomiale est une technique d'interpolation d'un ensemble de 
   
-> données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
+ données ou d'une fonction par un polynôme. En d'autres termes, étant donné un ensemble de points , on cherche un polynôme 
     
-> qui passe par tous ces points, et éventuellement vérifie d'autres .
-    
-> conditions, de degré si possible le plus bas.
+ qui passe par tous ces points, et éventuellement vérifie d'autres conditions, de degré si possible le plus bas.
 
-Le résultat n'est toutefois pas toujours à la hauteur des espérances : dans le cas de l'interpolation lagrangienne, par
+
 
 
 ### Principe de l'interpolation polynomiale:

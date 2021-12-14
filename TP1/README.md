@@ -3,7 +3,7 @@
 - [Introduction](#Introduction)
 - [La_méthode_dichotomie](#La_méthode_dichotomie)
 - [La_méthode_de_point_fixe](#La_méthode_de_point_fixe)
-- [La méthode_de_newton](#La méthode_de_newton)
+- [La_méthode_de_newton](#La_méthode_de_newton)
 ## But 
 
 Dans ce tp on a étudier et comparer les différentes méthodes de résolution d'équation f(x)=0 .
@@ -48,7 +48,7 @@ $|g_0(x)| < 1$ sur ce voisinage. Dans ce cas, on construit une suite $(x_n)$ $n 
    \right. $$
    
    
-   ### La méthode_de_newton :
+   ### La_méthode_de_newton :
    
 L'idée est de remplacer la courbe représentative de la fonction par sa tangente.
 

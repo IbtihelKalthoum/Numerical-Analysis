@@ -1,10 +1,10 @@
 #  Interpolation Numérique
-- [But de TP](#but)
-- [Introduction](#intro)
-- [Principe de l'interpolation polynomiale](#principe)
-> - [Principe de l'interpolation de Lagrange](#prnc1)
-> - [Principe de phénomène de Runge](#prnc2)
-> - [Principe de polynome de Newton](#prnc3)
+- [But de TP](#But de TP)
+- [Introduction](#Introduction)
+- [Principe de l'interpolation polynomiale](#Principe de l'interpolation polynomiale)
+> - [Principe de l'interpolation de Lagrange](#Principe de l'interpolation de Lagrange)
+> - [Principe de phénomène de Runge](#Principe de phénomène de Runge)
+> - [Principe de polynome de Newton](#Principe de polynome de Newton)
 - [Conclusion](#conclusion)
 ### But de TP
 

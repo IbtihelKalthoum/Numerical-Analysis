@@ -2,7 +2,9 @@
 - [But de TP](#but)
 - [Introduction](#intro)
 - [Principe de l'interpolation polynomiale](#principe)
-
+> - [Principe de l'interpolation de Lagrange](#prnc1)
+> - [Principe de phénomène de Runge](#prnc2)
+> - [Principe de polynome de Newton](#prnc3)
 ### But de TP
 
 .étudier les polynomes d'interpolation.
